@@ -27,7 +27,7 @@ A Library Management System built using concepts of OOPS(Object-Oriented Program
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/akilteja-1625/Library-Management-System.git
+https://github.com/akilteja14/Library-Management-System.git
 cd Library-Management-System
 ```
 
